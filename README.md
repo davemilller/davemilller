@@ -59,6 +59,13 @@ Notice that some of these repositories are private. Some of these are done for c
         - Gibbs sampling
     * Reinforcement learning (coming soon)
 
+#### [Data Mining](https://github.com/davemilller/data-mining) - Python
+- Exploring various data mining methods through projects
+    * P1 - writing functions to compute mean, covariance, standard deviation, correlation, range normalize, z-score normalize, and label encode for use on a dataset
+    * P2 - writing functions to compute cluster coefficient, betweeness centrality, and average shortest path length for use on a graph dataset
+    * P3 - writing k-means and DBSCAN for clustering of a dataset
+    * Final - Exploring models for predicting stock market data
+
 #### [Autonomous RC](https://github.com/davemilller/Autonomous-RC) - Python (in-progress)
 - Making a walmart RC car self-driving
     * Raspberry Pi
