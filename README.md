@@ -4,7 +4,7 @@
 - superdave2347@gmail.com
 
 ### About Me
-I am a computer science student at Montana State University, graduating in fall of 2021. I am interested / have experience in: 
+Software developer extraordinaire with a computer science degree from Montana State University. Currently working as a golang backend engineer at Brightvine. I am interested / have experience in: 
 - Machine learning / AI applications, including but not limited to:
     * NLP
     * Computer vision
