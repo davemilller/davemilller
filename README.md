@@ -57,7 +57,8 @@ Notice that some of these repositories are private. Some of these are done for c
     * Bayesian networks & inference - inferring marginal probability distributions on various Bayes nets using:
         - Variable elimination
         - Gibbs sampling
-    * Reinforcement learning (coming soon)
+    * Reinforcement learning
+        - Teaching a car to drive a number of different tracks
 
 #### [Data Mining](https://github.com/davemilller/data-mining) - Python
 - Exploring various data mining methods through projects
