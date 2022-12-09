@@ -4,7 +4,15 @@
 - superdave2347@gmail.com
 
 ### About Me
-Software developer extraordinaire with a computer science degree from Montana State University. Currently working as a golang backend engineer at Brightvine. I am interested / have experience in: 
+Software developer extraordinaire with a computer science degree from Montana State University. Currently working at [Brightvine](https://www.brightvine.com/) as a full stack engineer doing:
+* Backend microservices using golang w/ postgres DB
+* Frontend using react w/ typescript
+* Smart contracts in solidity
+* Blockchain with hyperledger-besu
+* Devops work in kubernetes, gcloud
+* Lots of design & architecture
+
+I am interested / have experience in: 
 - Machine learning / AI applications, including but not limited to:
     * NLP
     * Computer vision
@@ -33,7 +41,7 @@ Software developer extraordinaire with a computer science degree from Montana St
 For any job or collaboration opportunities, or to just ask a question, please contact me at the email listed above.
 
 ## Projects & Repositories
-Notice that some of these repositories are private. Some of these are done for college classes, and the professors have asked to keep them private to prevent cheating, and others are personal projects that I would not like public. If you would care to take a look at any of these, please send me an email.
+Note that some of these repositories are private. Some of these are done for college classes, and the professors have asked to keep them private to prevent cheating, and others are personal projects that I would not like public. If you would care to take a look at any of these, please send me an email.
 
 #### [Machine Learning](https://github.com/davemilller/machine-learning) (partially private) - Java
 - Implementing various ML algorithms from scratch using different data sets
