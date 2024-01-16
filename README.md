@@ -4,13 +4,7 @@
 - superdave2347@gmail.com
 
 ### About Me
-Software developer extraordinaire with a computer science degree from Montana State University. Currently working at [Brightvine](https://www.brightvine.com/) as a full stack engineer doing:
-* Backend microservices using golang w/ postgres DB
-* Frontend using react w/ typescript
-* Smart contracts in solidity
-* Blockchain with hyperledger-besu
-* Devops work in kubernetes, gcloud
-* Lots of design & architecture
+Software developer extraordinaire with a computer science degree from Montana State University. Currently working at [HappyDoc](https://www.gohappydoc.com/) as a full stack engineer.
 
 I am interested / have experience in: 
 - Machine learning / AI applications, including but not limited to:
@@ -20,14 +14,12 @@ I am interested / have experience in:
     * Bayesian networks
     * Reinforcement learning
     * Genetic / swarm algorithms
+    * LLMs
 - Data science / data mining
     * Data visualization
     * Working with large data sets
     * Graphs / networks
     * Clustering
-- Blockchain / decentralized applications
-    * Etherium smart contracts (Solidity)
-    * Crypto
 - Other
     * Genomics
     * Neuroscience
@@ -36,6 +28,7 @@ I am interested / have experience in:
     * Signal processing
     * Self-driving
     * Cybersecurity
+    * Quantum Computing
 
 ### Contact Me
 For any job or collaboration opportunities, or to just ask a question, please contact me at the email listed above.
