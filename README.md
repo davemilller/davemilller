@@ -4,7 +4,7 @@
 - superdave2347@gmail.com
 
 ### About Me
-Software developer extraordinaire with a computer science degree from Montana State University. Currently working at [HappyDoc](https://www.gohappydoc.com/) as a full stack engineer.
+Software developer extraordinaire with a computer science degree from Montana State University. Backend focused but proficient across the whole stack, including frontend development with React, mobile with React native, and DevOps with Kubernetes & GCP.
 
 I am interested / have experience in: 
 - Machine learning / AI applications, including but not limited to:
